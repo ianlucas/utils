@@ -1,6 +1,6 @@
 {
   "name": "@ianlucas/write-file",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Write a file and download it from the browser.",
   "author": "Ian Lucas <ianlucas_ferreira@hotmail.com>",
   "homepage": "",
