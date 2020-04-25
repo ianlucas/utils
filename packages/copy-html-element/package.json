@@ -1,0 +1,17 @@
+{
+  "name": "@ianlucas/copy-html-element",
+  "version": "0.0.0",
+  "description": "Copy the rendered HTML of an element or from a HTML string to the clipboard.",
+  "author": "Ian Lucas <ianlucas_ferreira@hotmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "dist/copyHtmlElement.js",
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
+}

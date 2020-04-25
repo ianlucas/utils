@@ -1,0 +1,17 @@
+0 silly argv {
+0 silly argv   _: [ 'create' ],
+0 silly argv   lernaVersion: '3.20.2',
+0 silly argv   '$0': '../../.npm/_npx/12608/bin/lerna',
+0 silly argv   name: 'create-html-element'
+0 silly argv }
+1 notice cli v3.20.2
+2 verbose rootPath /home/ian/dev/utils
+3 error Error: Command failed: git config --get user.name
+3 error
+3 error
+3 error     at makeError (/home/ian/.npm/_npx/12608/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
+3 error     at Function.module.exports.sync (/home/ian/.npm/_npx/12608/lib/node_modules/lerna/node_modules/execa/index.js:338:15)
+3 error     at Object.execSync (/home/ian/.npm/_npx/12608/lib/node_modules/lerna/node_modules/@lerna/child-process/index.js:26:16)
+3 error     at CreateCommand.gitConfig (/home/ian/.npm/_npx/12608/lib/node_modules/lerna/node_modules/@lerna/create/index.js:181:34)
+3 error     at CreateCommand.initialize (/home/ian/.npm/_npx/12608/lib/node_modules/lerna/node_modules/@lerna/create/index.js:103:46)
+3 error     at /home/ian/.npm/_npx/12608/lib/node_modules/lerna/node_modules/@lerna/command/index.js:272:24

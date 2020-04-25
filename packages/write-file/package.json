@@ -1,0 +1,20 @@
+{
+  "name": "@ianlucas/write-file",
+  "version": "0.0.0",
+  "description": "Write a file and download it from the browser.",
+  "author": "Ian Lucas <ianlucas_ferreira@hotmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "dist/writeFile.js",
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.2"
+  }
+}
