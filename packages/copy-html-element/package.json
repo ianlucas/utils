@@ -1,6 +1,6 @@
 {
   "name": "@ianlucas/copy-html-element",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Copy the rendered HTML of an element or from a HTML string to the clipboard.",
   "author": "Ian Lucas <ianlucas_ferreira@hotmail.com>",
   "homepage": "",
